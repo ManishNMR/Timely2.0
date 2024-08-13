@@ -6,7 +6,15 @@
 
 **Timely** is a groundbreaking mobile application designed to tackle punctuality challenges and transform how individuals manage their time. By integrating location verification, mission scheduling, and a unique color-changing virtual pet, Timely aims to instill punctuality and foster responsibility. It provides a comprehensive roadmap for users, including notifications, progress tracking, and location analysis, making it an ideal solution for students and working professionals alike.
 
+
 ## Features
+<img src="https://github.com/user-attachments/assets/4ac4c0e1-854e-41f1-aa66-6201680bd129" width="250" />
+<img src="https://github.com/user-attachments/assets/60fbc08b-c5c4-450f-b2ee-00d8bbeb161a" width="250" />
+<img src="https://github.com/user-attachments/assets/e6833f41-a562-4f6a-a64b-cac2aca3ee07" width="250" />
+<img src="https://github.com/user-attachments/assets/27f6dada-a8c5-493f-adc7-95a09c663861" width="250" />
+<img src="https://github.com/user-attachments/assets/eac82c33-9d58-4120-bcac-9c195078d232" width="250" />
+<img src="https://github.com/user-attachments/assets/f212c72e-7110-4c4a-8c3d-bb1dff530c11" width="250" />
+
 
 ### Key Functionalities
 - **Location Verification:** Ensures users arrive at their designated places on time, reducing the risk of tardiness and missed opportunities.
